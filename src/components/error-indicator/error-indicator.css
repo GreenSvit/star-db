@@ -1,0 +1,15 @@
+.error-indicator {
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+  color: #ff9140;
+  font-size: 20px;
+}
+
+.error-indicator span {
+  display: block;
+}
+
+.boom {
+  font-size: 40px;
+}
